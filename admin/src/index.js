@@ -18,7 +18,7 @@ export default {
       },
       intlDescription: {
         id: 'cskills-link.url.description',
-        defaultMessage: 'Enter a valid URL and Link Text',
+        defaultMessage: 'Enter a valid URL.',
       },
       icon: LinkIcon,
       components: {
